@@ -1,7 +1,4 @@
-const fs = require('fs');
-const path = require('path');
 const express = require('express');
-const { animals } = require('./data/animals.json');
 const apiRoutes = require('./routes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes');
 
