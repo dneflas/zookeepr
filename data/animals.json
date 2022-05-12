@@ -119,6 +119,15 @@
         "goofy"
       ],
       "id": "11"
+    },
+    {
+      "name": "danny",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
     }
   ]
 }
